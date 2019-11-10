@@ -12,8 +12,8 @@ class Main extends Component {
        </div>
        <div className="main">
         <h2>Virtual Real Estate Assistant</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Nunc lobortis mattis aliquam faucibus purus in massa tempor nec.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant. A cras semper auctor neque vitae. Sed vulputate mi sit amet mauris commodo quis. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor. Blandit volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Eu nisl nunc mi ipsum faucibus. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Auctor elit sed vulputate mi sit amet mauris. Turpis cursus in hac habitasse platea dictumst. Sed augue lacus viverra vitae. Ipsum dolor sit amet consectetur adipiscing elit. Et magnis dis parturient montes nascetur ridiculus. Consequat interdum varius sit amet mattis.</p>
+        <p>DealRep is a crowd-sourced, self-administered Commercial Real Estate site. This allows for transparency to the industry and value for the users. Since the users are adding and editing the information instead of paid help, the accuracy is enhanced, the cost is kept low and the information is “owned” by the users instead of by DealRep.</p>
+        <p>DealRep features a people social networking application that allows for networking with peers but also has the ability to network with properties to track and be notified of additions or edits from other users. You have the ability to set your notifications to see if anyone changes data you haven’t confirmed to make certain of the quality of the information in your properties.</p>
         <button>Read More</button>
        </div>
       </div>
