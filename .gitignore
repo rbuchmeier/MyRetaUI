@@ -1,3 +1,4 @@
 nodemodules.next
 node_modules
+# Need to figure out how to gitignore all .next/* files...
 .next/*
